@@ -54,7 +54,7 @@ class Employee extends Person {
 
     public static void main(String[] args) {
 
-        Person emp = new Person("Reema", 550000.0, 2022, "386346324");
+        Person emp = new Person("phalguni", 550000.0, 2022, "52346324");
         System.out.println("---------------------------");
         System.out.println("Employee name is: " + emp.empName);
         System.out.println("Annual Salary is: " + emp.annualSalary);
